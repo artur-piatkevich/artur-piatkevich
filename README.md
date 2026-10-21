@@ -1,6 +1,8 @@
 # Artur Piatkevich
 
-I'm a final-year high school student who builds games in Fortnite (an online game that lets players build and publish their own games inside it) and writes the code behind them. Since October 2023 I have published 52 maps, and together they have been played for about 1.2 billion minutes. I have worked in several game studios, led teams in some of them and founded my own studio.
+I'm a final-year high school student who builds games in Fortnite (an online game that lets players build and publish their own games inside it) and writes the code behind them. Since October 2023 I have published 52 maps, and together they have been played for about 1.2 billion minutes. I have worked in several game studios and led teams in some of them, and I founded my own studio, HMOS, which published Kick a Lucky Rot, Escape Prison for Brainrots and Infinite Pillars.
+
+The game code here was written inside my map projects, and I moved it to GitHub in October 2026 together with the data and tools around it.
 
 - Highest peak: **66,671 players** online at once on Winter Gun Game
 - Most played map: **Kick a Lucky Rot**, 687 million minutes and 391,100 favorites
