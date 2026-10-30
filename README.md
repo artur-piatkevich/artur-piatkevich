@@ -1,6 +1,6 @@
 # Artur Piatkevich
 
-I'm a final-year high school student who builds games in Fortnite (an online game that lets players build and publish their own games inside it) and writes the code behind them. Since October 2023 I have published 52 maps, and together they have been played for about 1.2 billion minutes. I have worked in several game studios and led teams in some of them, and I founded my own studio, HMOS, which published Kick a Lucky Rot, Escape Prison for Brainrots and Infinite Pillars.
+I'm a final-year high school student who builds games in Fortnite (an online game that lets players build and publish their own games inside it) and writes the code behind them. Since October 2023, I have published 52 maps, and together they have been played for about 1.2 billion minutes. I founded my own studio, M1ce, and I’m co-founder and lead developer at HMOS, which published Kick a Lucky Rot, Escape Prison for Brainrots, and Infinite Pillars. Before that, I co-founded smutistudio as its lead developer.
 
 I have been writing the code for my maps since 2023. Everything here comes from those map projects, and I moved it to GitHub in October 2026 together with the data and tools around it.
 
